@@ -221,7 +221,7 @@ const styles = StyleSheet.create({
     padding:8,
     fontSize:30,
     fontWeight:'bold',
-    marginTop:100,
+    marginTop:180,
     marginBottom:25
   }
 });
