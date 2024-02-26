@@ -1,19 +1,19 @@
-import { View, Text,StyleSheet } from "react-native";
-
+import { View, Text, StyleSheet } from "react-native";
 import React from "react";
-const Home=()=>{
+const Profile=()=>{
     return(
         <View style = {styles.container}>
             <Text>Home Screen</Text>
         </View>
     )
 }
-export  default Home
+export default Profile
 const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: '#fff',
+      backgroundColor: 'yellow',
       alignItems: 'center',
       justifyContent: 'center',
+      
     },
   });
