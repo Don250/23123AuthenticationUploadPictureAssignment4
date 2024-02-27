@@ -4,7 +4,7 @@ import React from "react";
 const Contact=()=>{
     return(
         <View style = {styles.container}>
-            <Text>Home Screen</Text>
+            <Text>Contact Screen</Text>
         </View>
     )
 }
